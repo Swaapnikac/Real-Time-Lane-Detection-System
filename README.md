@@ -37,3 +37,11 @@ Edge Detection • Perspective Transform • CNN Feature Extraction • Real-tim
 ## Installation
 
 Clone this repository and install dependencies
+
+## Author Contact Information
+
+**Swaapnika Chowdary Cherukuru**  
+Master of Science | Northeastern University  
+cherukuru.sw@northeastern.edu | swaapnic@gmail.com
+| https://www.linkedin.com/in/swaapnika-cherukuru-926990228/
+
