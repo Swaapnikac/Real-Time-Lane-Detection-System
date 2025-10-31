@@ -36,9 +36,4 @@ Edge Detection • Perspective Transform • CNN Feature Extraction • Real-tim
 
 ## Installation
 
-Clone this repository and install dependencies:
-
-```bash
-git clone https://github.com/<your-username>/Real-Time-Lane-Detection-System.git
-cd Real-Time-Lane-Detection-System
-pip install -r requirements.txt
+Clone this repository and install dependencies
